@@ -1,5 +1,6 @@
 # zip file
 *.zip
+*.pdf
 
 # other files/folders
 Project2/PINS
