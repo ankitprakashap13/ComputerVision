@@ -1,0 +1,9 @@
+# zip file
+*.zip
+
+# other files/folders
+Project2/PINS
+Project2/training_images
+Project2/images.npy
+Project2/moblenet_face_detection.h5
+Project2/vgg_face_weights.h5
